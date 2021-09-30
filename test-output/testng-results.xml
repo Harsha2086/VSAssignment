@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="VerveSquareTest" duration-ms="206483" started-at="2021-09-30T11:11:26 IST" finished-at="2021-09-30T11:14:53 IST">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="206483" started-at="2021-09-30T11:11:26 IST" finished-at="2021-09-30T11:14:53 IST">
+      <class name="WorkFlowTest.ClearTripTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:WorkFlowTest.ClearTripTest@2ad3a1bb]" name="SetUp" is-config="true" duration-ms="5957" started-at="2021-09-30T11:11:26 IST" finished-at="2021-09-30T11:11:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:WorkFlowTest.ClearTripTest@2ad3a1bb]" name="Test" duration-ms="199628" started-at="2021-09-30T11:11:32 IST" finished-at="2021-09-30T11:14:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:WorkFlowTest.ClearTripTest@2ad3a1bb]" name="AfterTest" is-config="true" duration-ms="832" started-at="2021-09-30T11:14:52 IST" finished-at="2021-09-30T11:14:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- WorkFlowTest.ClearTripTest -->
+    </test> <!-- testngTest -->
+  </suite> <!-- VerveSquareTest -->
+</testng-results>
